@@ -4,12 +4,11 @@
 本项目由Visual Stuio 2010编写， 本 demo 中提供了 TCP 模式和RS485/232的简单使用方式。
 
 * C++代码
-
-  https://github.com/onbonlab/bx.k.cplus/blob/master/src/Led5kSDKDemo.cpp
+https://github.com/onbonlab/bx.k.c/blob/develop/src/demo/Led5kSDKDemo.cpp
 
 * 可执行程序
 
-  https://github.com/onbonlab/bx.k.cplus/releases
+  https://github.com/onbonlab/bx.k.c/releases
 
 
 
