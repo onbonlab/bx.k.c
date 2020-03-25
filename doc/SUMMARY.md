@@ -1,7 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [快速开发导读](SdkWord/README.md)
+* [快速开发导读](README.md)
 * [错误码及说明](SdkWord/ErrorCode.md)
 * [显示屏初始化说明](SdkWord/Section.md)
 * [API调用顺序](SdkWord/API-call-order.md)
